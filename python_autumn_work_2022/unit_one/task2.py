@@ -1,9 +1,8 @@
 #Преобразуйте переменную age и foo в число 
 age = "23"
 foo = "23abc"
-
 print(int(age))
-#print(foo)
+print(foo)
 
 #Преобразуйте переменную age в Boolean
 del age
